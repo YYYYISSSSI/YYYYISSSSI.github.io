@@ -1,0 +1,30 @@
+<?x<class>
+<students>
+<student1>
+<name>marys</name>
+<age>18</age>
+<sex>girl</sex>
+<booklove><<maybe>></booklove>
+<question>what is your favorite book</question>
+<ans>
+<![CDATA[ 
+ <<maybe>>
+ ]]>
+</ans>
+<no>20</no>
+</student1>
+<student2>
+<name>xxyy</name>
+<age>19</age>
+<sex>boy</sex>
+<booklove><<perhaps>></booklove>
+<question>what is your favorite shu</question>
+<ans>
+<![CDATA[ 
+ <<perhaps>>
+ ]]>
+</ans>
+<no>27</no>
+</student2>
+</students>
+</class>
